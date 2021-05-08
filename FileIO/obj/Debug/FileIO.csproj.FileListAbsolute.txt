@@ -1,0 +1,7 @@
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\K.R.DHASHNIGA\source\repos\FileIO\FileIO\obj\Debug\FileIO.pdb
